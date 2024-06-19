@@ -1,0 +1,1917 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Gyro\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "D:\\Gyro\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "D:\\Gyro\\Assembly-CSharp.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.EditorCoroutines.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.EditorCoroutines.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.Performance.Profile-Analyzer.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.PlasticSCM.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.PlasticSCM.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.Rider.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.Rider.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              },
+              "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              },
+              "D:\\Gyro\\Unity.TextMeshPro.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TextMeshPro.csproj"
+              },
+              "D:\\Gyro\\Unity.TextMeshPro.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TextMeshPro.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.Timeline.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.Timeline.csproj"
+              },
+              "D:\\Gyro\\Unity.Timeline.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.Timeline.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.SettingsProvider.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Shared.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Shared.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualStudio.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualStudio.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VSCode.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VSCode.Editor.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.EditorCoroutines.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.EditorCoroutines.Editor.csproj",
+        "projectName": "Unity.EditorCoroutines.Editor",
+        "projectPath": "D:\\Gyro\\Unity.EditorCoroutines.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.EditorCoroutines.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "projectName": "Unity.Performance.Profile-Analyzer.Editor",
+        "projectPath": "D:\\Gyro\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.Performance.Profile-Analyzer.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.PlasticSCM.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.PlasticSCM.Editor.csproj",
+        "projectName": "Unity.PlasticSCM.Editor",
+        "projectPath": "D:\\Gyro\\Unity.PlasticSCM.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.PlasticSCM.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.Rider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.Rider.Editor.csproj",
+        "projectName": "Unity.Rider.Editor",
+        "projectPath": "D:\\Gyro\\Unity.Rider.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.Rider.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.Settings.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.Settings.Editor.csproj",
+        "projectName": "Unity.Settings.Editor",
+        "projectPath": "D:\\Gyro\\Unity.Settings.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.Settings.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor",
+        "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.TestTools.CodeCoverage.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.Settings.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.Settings.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              },
+              "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Model",
+        "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection",
+        "projectPath": "D:\\Gyro\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.TextMeshPro.csproj",
+        "projectName": "Unity.TextMeshPro",
+        "projectPath": "D:\\Gyro\\Unity.TextMeshPro.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.TextMeshPro\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.TextMeshPro.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.TextMeshPro.Editor.csproj",
+        "projectName": "Unity.TextMeshPro.Editor",
+        "projectPath": "D:\\Gyro\\Unity.TextMeshPro.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.TextMeshPro.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.TextMeshPro.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.TextMeshPro.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.Timeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.Timeline.csproj",
+        "projectName": "Unity.Timeline",
+        "projectPath": "D:\\Gyro\\Unity.Timeline.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.Timeline\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.Timeline.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.Timeline.Editor.csproj",
+        "projectName": "Unity.Timeline.Editor",
+        "projectPath": "D:\\Gyro\\Unity.Timeline.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.Timeline.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.Timeline.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.Timeline.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.Core\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Core.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.Core.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.Flow\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Flow.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.Flow.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "projectName": "Unity.VisualScripting.SettingsProvider.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.SettingsProvider.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.Shared.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.Shared.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Shared.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.Shared.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.Shared.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.State.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.State.csproj",
+        "projectName": "Unity.VisualScripting.State",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.State\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj",
+        "projectName": "Unity.VisualScripting.State.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualScripting.State.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "D:\\Gyro\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "D:\\Gyro\\Unity.VisualScripting.State.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VisualStudio.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VisualStudio.Editor.csproj",
+        "projectName": "Unity.VisualStudio.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VisualStudio.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VisualStudio.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\Unity.VSCode.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\Unity.VSCode.Editor.csproj",
+        "projectName": "Unity.VSCode.Editor",
+        "projectPath": "D:\\Gyro\\Unity.VSCode.Editor.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\Unity.VSCode.Editor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEditor.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\UnityEditor.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "D:\\Gyro\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\UnityEditor.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Gyro\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEditor.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj"
+              },
+              "D:\\Gyro\\UnityEngine.UI.csproj": {
+                "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "D:\\Gyro\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\UnityEngine.TestRunner\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Gyro\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gyro\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "D:\\Gyro\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\varux\\.nuget\\packages\\",
+        "outputPath": "D:\\Gyro\\Temp\\obj\\Debug\\UnityEngine.UI\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\varux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
